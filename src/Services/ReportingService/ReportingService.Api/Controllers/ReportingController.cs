@@ -42,7 +42,7 @@ public class ReportingController : ControllerBase
     }
     
     [HttpGet]
-    [Route("reporting/reportId")]
+    [Route("reporting/{reportId}")]
     public async Task<IActionResult> ReportDetail(Guid reportId)
     {
         var report = await _context.Reports.FindAsync(reportId);

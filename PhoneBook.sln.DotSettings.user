@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f66d8dd_002Da79a_002D4eef_002Dbcfe_002Dfabb71bb9a66/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="subscribe_event_on_rabbitmq_test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::2AA231E1-A79F-40B4-8DED-71668EA4D4B5::net7.0::EventBus.UnitTests.EventBusTest.subscribe_event_on_rabbitmq_test&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::2AA231E1-A79F-40B4-8DED-71668EA4D4B5::net7.0::EventBus.UnitTests.EventBusTest.send_message_to_rabbitmq&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
